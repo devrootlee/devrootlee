@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm a Backend Developer</h1>
+<h1 align="center">Hi👋, I'm a Backend Developer</h1>
 
 <p align="center">
   💻 Java를 기반으로 한 백엔드 개발자입니다. <br>
@@ -52,5 +52,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devrootlee&show_icons=true&theme=tokyonight" />
 </p>
