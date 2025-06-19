@@ -32,7 +32,7 @@
 - Grafana (대시보드 시각화)
 
 ### 🚀 Features
-- 실시간 통신: WebSocket (STOMP)
+- 실시간 통신: WebSocket
 - 알림 시스템: FCM
 - 소셜 로그인: OAuth 2.0 기반 (Google, Kakao, Naver)
 - API 문서화: Swagger
